@@ -3,3 +3,7 @@ bin/
 bin-int/
 
 .vs/
+
+*.vcxproj
+
+*.filters
